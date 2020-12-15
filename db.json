@@ -1,0 +1,113 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "image": "stoofvlees-met-frieten.jpg",
+      "name": "Stoofvlees met frieten",
+      "category": "Hoofdgerecht",
+      "description": "Een Vlaamse Klassieker die ondertussen écht culinair erfgoed is. Met het juiste stuk vlees, een lekker biertje, de onvermijdelijke boterham met mosterd, stroop en een portie geduld, zet je altijd een winnaar op de tafel.",
+      "ingredients": [
+        "600g rundstoofvlees (in stukken)", 
+        "1 ui (grofgesneden)", "2 baadjes laurier", 
+        "1 flesje donkerbruin bier (trappist)", 
+        "2 boterhammen (bruine, besmeerd met mosterd)", 
+        "boter", 
+        "peper", 
+        "zout"
+      ]
+    },
+    {
+      "id": 2,
+      "image": "witloof-uit-de-oven-met-puree.jpg",
+      "name": "Witloof uit de oven met puree",
+      "category": "Hoofdgerecht",
+      "description": "Vlaams witloof gewikkeld in gekookte hesp, overgoten met een rijkelijke kaassaus en met een krokant kaaskorstje erbovenop. Alleen al de omschrijving van deze terechte winnaar van het ‘zilver’ geeft een mens het water in de mond. De witloofrolletjes smaken op hun best met aardappelpuree.",
+      "ingredients": [
+        "8 stronkjes witloof",
+        "8 plakjes ham",
+        "2 el boter (+ wat extra)",
+        "2 el bloem",
+        "500ml melk (+ wat extra)",
+        "75g geraspte kaas (+ wat extra)",
+        "750g aardappelen",
+        "nootmuskaat",
+        "peper",
+        "zout"
+      ]
+    },
+    {
+      "id": 3,
+      "image": "vol-au-vent.jpg",
+      "name": "Vol-au-vent",
+      "category": "Hoofdgerecht",
+      "description": "Vol-au-vent iedereen weet hoe deze klassieker op het bord verschijnt. Laat je echter niet verrassen, want de bereiding ervan vraagt wat tijd en moeite. Verse kip en gehaktballetjes in een romige saus en de luchtige hollandaise. Wie dit bedacht verdient een standbeeld.",
+      "ingredients": [
+        "1 kip",
+        "500g kippengehakt",
+        "3 stengels groene selder",
+        "500g champignons",
+        "2 wortels",
+        "2 el bladpeterselie (gehakt)",
+        "1 citroen",
+        "50g boter",
+        "50g bloem",
+        "1 kruidentuiltje (tijm, laurier en peterseliestengels)",
+        "300ml room",
+        "peper",
+        "zout"
+      ]
+    },
+    {
+      "id": 4,
+      "image": "asperges-op-z’n-Vlaams.jpg",
+      "name": "Asperges op z’n Vlaams",
+      "category": "Hoofdgerecht",
+      "description": "",
+      "ingredients": [
+        "2 bussels asperge (witte)",
+        "1/2 bosje peterselie",
+        "takje kervel (enkele)",
+        "4 eieren",
+        "200ghoeveboter",
+        "nootmuskaat",
+        "peper",
+        "zout"
+      ]
+    },
+    {
+      "id": 5,
+      "image": "steak-met-bearnaise.jpg",
+      "name": "Steak met bearnaise",
+      "category": "Hoofdgerecht",
+      "description": "Het opzet is eenvoudig en onweerstaanbaar lekker: een stuk Belgisch kwaliteitsvlees, lekkere verse friet, sla ‘à la minute’ klaargemaakt en dan zo’n authentieke béarnaisesaus erbij. De basis voor een traditionele béarnaisesaus is een ‘gastrique’. Hoe meer zorg je besteedt aan die gastrique, hoe fijner de saus zal smaken.",
+      "ingredients": [
+        "4 biefstukken",
+        "1kg frietaardappelen",
+        "boter",
+        "200ml witte wijn",
+        "100ml dragonazijn",
+        "1 sjalot",
+        "1 kl zwarte peperkorrels (geplet)",
+        "4  eidooiers",
+        "200g gesmorten boter",
+        "2 el dragon (gehakt)",
+        "1 el kervel (gehakt + enkele plukjes)"
+      ]
+    },
+    {
+      "id": 6,
+      "image": "mosselen-natuur.jpg",
+      "name": "Mosselen natuur",
+      "category": "Hoofdgerecht",
+      "description": "Ze worden op veel verschillende manieren klaargemaakt. Maar puur natuur - met brood of frietjes - zijn ze een Vlaamse topper.",
+      "ingredients": [
+        "4kg mosselen",
+        "4 takjes groene selder (met loof)",
+        "4 uien",
+        "1 el boter",
+        "peper",
+        "zout"
+      ]
+    },
+  ]
+}
